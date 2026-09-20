@@ -1,0 +1,161 @@
+Student_ID,Class,Checkpoint,Week,Attendance_%,Participation,Listening,Speaking,Reading,Writing
+S01,7A,Pre-test,1,81,Low,68,64,69,69
+S01,7A,Checkpoint 1,4,81,Low,68,70,64,68
+S01,7A,Checkpoint 2,8,81,Low,70,69,71,64
+S01,7A,Checkpoint 3,12,81,Low,71,72,75,68
+S01,7A,Final,16,81,Low,72,72,75,72
+S02,7A,Pre-test,1,83,High,58,58,65,59
+S02,7A,Checkpoint 1,4,83,High,61,60,66,63
+S02,7A,Checkpoint 2,8,83,High,59,60,66,62
+S02,7A,Checkpoint 3,12,83,High,63,63,72,65
+S02,7A,Final,16,83,High,65,64,65,66
+S03,7A,Pre-test,1,88,Medium,65,68,71,66
+S03,7A,Checkpoint 1,4,88,Medium,69,71,73,63
+S03,7A,Checkpoint 2,8,88,Medium,70,80,69,66
+S03,7A,Checkpoint 3,12,88,Medium,71,77,70,69
+S03,7A,Final,16,88,Medium,71,82,72,74
+S04,7A,Pre-test,1,90,Low,68,67,73,64
+S04,7A,Checkpoint 1,4,90,Low,69,68,74,62
+S04,7A,Checkpoint 2,8,90,Low,70,68,78,66
+S04,7A,Checkpoint 3,12,90,Low,69,69,79,65
+S04,7A,Final,16,90,Low,75,71,77,69
+S05,7A,Pre-test,1,99,High,60,60,70,60
+S05,7A,Checkpoint 1,4,99,High,59,59,67,56
+S05,7A,Checkpoint 2,8,99,High,61,63,71,61
+S05,7A,Checkpoint 3,12,99,High,63,68,71,66
+S05,7A,Final,16,99,High,66,66,71,63
+S06,7A,Pre-test,1,81,High,58,55,65,60
+S06,7A,Checkpoint 1,4,81,High,61,57,67,60
+S06,7A,Checkpoint 2,8,81,High,60,61,67,58
+S06,7A,Checkpoint 3,12,81,High,63,62,70,63
+S06,7A,Final,16,81,High,60,60,69,62
+S07,7A,Pre-test,1,95,High,73,83,75,73
+S07,7A,Checkpoint 1,4,95,High,71,82,75,72
+S07,7A,Checkpoint 2,8,95,High,78,81,78,70
+S07,7A,Checkpoint 3,12,95,High,73,88,78,72
+S07,7A,Final,16,95,High,74,88,77,75
+S08,7A,Pre-test,1,87,High,62,59,75,67
+S08,7A,Checkpoint 1,4,87,High,66,60,78,69
+S08,7A,Checkpoint 2,8,87,High,67,62,78,67
+S08,7A,Checkpoint 3,12,87,High,74,66,77,72
+S08,7A,Final,16,87,High,77,70,78,70
+S09,7A,Pre-test,1,88,Medium,62,51,59,58
+S09,7A,Checkpoint 1,4,88,Medium,64,51,69,58
+S09,7A,Checkpoint 2,8,88,Medium,66,56,70,60
+S09,7A,Checkpoint 3,12,88,Medium,71,58,67,66
+S09,7A,Final,16,88,Medium,71,60,71,66
+S10,7A,Pre-test,1,93,Medium,69,59,73,60
+S10,7A,Checkpoint 1,4,93,Medium,67,63,74,59
+S10,7A,Checkpoint 2,8,93,Medium,67,69,76,60
+S10,7A,Checkpoint 3,12,93,Medium,72,70,79,64
+S10,7A,Final,16,93,Medium,70,70,80,66
+S11,7A,Pre-test,1,80,Low,61,54,67,58
+S11,7A,Checkpoint 1,4,80,Low,62,58,71,57
+S11,7A,Checkpoint 2,8,80,Low,64,58,70,58
+S11,7A,Checkpoint 3,12,80,Low,64,62,69,64
+S11,7A,Final,16,80,Low,64,60,74,63
+S12,7A,Pre-test,1,91,Medium,62,55,66,55
+S12,7A,Checkpoint 1,4,91,Medium,61,58,65,55
+S12,7A,Checkpoint 2,8,91,Medium,63,61,66,56
+S12,7A,Checkpoint 3,12,91,Medium,65,63,64,56
+S12,7A,Final,16,91,Medium,66,64,68,63
+S13,7A,Pre-test,1,89,Medium,66,57,68,57
+S13,7A,Checkpoint 1,4,89,Medium,68,62,67,60
+S13,7A,Checkpoint 2,8,89,Medium,69,59,69,60
+S13,7A,Checkpoint 3,12,89,Medium,69,60,69,62
+S13,7A,Final,16,89,Medium,73,65,74,60
+S14,7A,Pre-test,1,91,Medium,53,45,59,47
+S14,7A,Checkpoint 1,4,91,Medium,55,48,64,53
+S14,7A,Checkpoint 2,8,91,Medium,59,48,63,51
+S14,7A,Checkpoint 3,12,91,Medium,56,55,68,50
+S14,7A,Final,16,91,Medium,57,56,66,55
+S15,7A,Pre-test,1,90,Medium,48,45,55,51
+S15,7A,Checkpoint 1,4,90,Medium,50,47,60,50
+S15,7A,Checkpoint 2,8,90,Medium,48,50,60,52
+S15,7A,Checkpoint 3,12,90,Medium,56,50,63,55
+S15,7A,Final,16,90,Medium,58,55,61,58
+S16,7A,Pre-test,1,100,Medium,63,56,58,55
+S16,7A,Checkpoint 1,4,100,Medium,62,63,64,61
+S16,7A,Checkpoint 2,8,100,Medium,68,61,60,62
+S16,7A,Checkpoint 3,12,100,Medium,68,67,60,64
+S16,7A,Final,16,100,Medium,67,71,67,64
+S17,7B,Pre-test,1,84,Low,53,48,60,56
+S17,7B,Checkpoint 1,4,84,Low,57,46,61,57
+S17,7B,Checkpoint 2,8,84,Low,63,51,62,61
+S17,7B,Checkpoint 3,12,84,Low,60,53,66,64
+S17,7B,Final,16,84,Low,61,54,65,59
+S18,7B,Pre-test,1,84,Low,60,65,79,63
+S18,7B,Checkpoint 1,4,84,Low,59,63,70,62
+S18,7B,Checkpoint 2,8,84,Low,59,64,72,60
+S18,7B,Checkpoint 3,12,84,Low,65,69,74,66
+S18,7B,Final,16,84,Low,63,67,78,65
+S19,7B,Pre-test,1,84,Medium,56,55,56,52
+S19,7B,Checkpoint 1,4,84,Medium,54,52,59,51
+S19,7B,Checkpoint 2,8,84,Medium,58,53,62,54
+S19,7B,Checkpoint 3,12,84,Medium,59,55,61,57
+S19,7B,Final,16,84,Medium,62,58,64,59
+S20,7B,Pre-test,1,84,Low,48,47,54,55
+S20,7B,Checkpoint 1,4,84,Low,52,50,59,52
+S20,7B,Checkpoint 2,8,84,Low,52,52,58,57
+S20,7B,Checkpoint 3,12,84,Low,52,55,62,57
+S20,7B,Final,16,84,Low,57,56,62,62
+S21,7B,Pre-test,1,84,High,63,61,75,66
+S21,7B,Checkpoint 1,4,84,High,65,64,76,67
+S21,7B,Checkpoint 2,8,84,High,63,65,78,68
+S21,7B,Checkpoint 3,12,84,High,66,72,80,69
+S21,7B,Final,16,84,High,69,68,75,69
+S22,7B,Pre-test,1,96,Medium,56,54,67,59
+S22,7B,Checkpoint 1,4,96,Medium,57,58,63,67
+S22,7B,Checkpoint 2,8,96,Medium,59,58,69,71
+S22,7B,Checkpoint 3,12,96,Medium,61,62,68,67
+S22,7B,Final,16,96,Medium,64,62,70,69
+S23,7B,Pre-test,1,98,Medium,63,57,69,60
+S23,7B,Checkpoint 1,4,98,Medium,67,59,72,63
+S23,7B,Checkpoint 2,8,98,Medium,68,67,71,60
+S23,7B,Checkpoint 3,12,98,Medium,66,69,75,64
+S23,7B,Final,16,98,Medium,72,67,80,66
+S24,7B,Pre-test,1,84,Medium,54,52,64,56
+S24,7B,Checkpoint 1,4,84,Medium,60,52,59,55
+S24,7B,Checkpoint 2,8,84,Medium,59,58,60,60
+S24,7B,Checkpoint 3,12,84,Medium,61,58,62,55
+S24,7B,Final,16,84,Medium,65,62,63,58
+S25,7B,Pre-test,1,82,High,58,60,57,53
+S25,7B,Checkpoint 1,4,82,High,59,63,67,56
+S25,7B,Checkpoint 2,8,82,High,60,61,69,55
+S25,7B,Checkpoint 3,12,82,High,62,65,65,56
+S25,7B,Final,16,82,High,62,66,66,56
+S26,7B,Pre-test,1,91,Medium,55,60,68,61
+S26,7B,Checkpoint 1,4,91,Medium,61,59,64,65
+S26,7B,Checkpoint 2,8,91,Medium,61,65,70,70
+S26,7B,Checkpoint 3,12,91,Medium,66,61,68,70
+S26,7B,Final,16,91,Medium,64,67,69,69
+S27,7B,Pre-test,1,84,Medium,56,53,60,57
+S27,7B,Checkpoint 1,4,84,Medium,60,51,62,59
+S27,7B,Checkpoint 2,8,84,Medium,61,58,60,58
+S27,7B,Checkpoint 3,12,84,Medium,60,60,60,66
+S27,7B,Final,16,84,Medium,61,64,64,63
+S28,7B,Pre-test,1,92,Medium,62,61,67,65
+S28,7B,Checkpoint 1,4,92,Medium,64,59,66,68
+S28,7B,Checkpoint 2,8,92,Medium,66,65,70,69
+S28,7B,Checkpoint 3,12,92,Medium,67,67,72,68
+S28,7B,Final,16,92,Medium,71,68,75,73
+S29,7B,Pre-test,1,89,Medium,56,55,67,60
+S29,7B,Checkpoint 1,4,89,Medium,62,57,69,59
+S29,7B,Checkpoint 2,8,89,Medium,61,58,68,60
+S29,7B,Checkpoint 3,12,89,Medium,62,65,69,69
+S29,7B,Final,16,89,Medium,66,65,70,66
+S30,7B,Pre-test,1,77,High,61,54,72,62
+S30,7B,Checkpoint 1,4,77,High,59,61,74,58
+S30,7B,Checkpoint 2,8,77,High,63,61,75,58
+S30,7B,Checkpoint 3,12,77,High,62,61,75,63
+S30,7B,Final,16,77,High,65,61,77,65
+S31,7B,Pre-test,1,99,High,61,54,66,59
+S31,7B,Checkpoint 1,4,99,High,62,56,64,61
+S31,7B,Checkpoint 2,8,99,High,63,62,67,60
+S31,7B,Checkpoint 3,12,99,High,66,61,68,60
+S31,7B,Final,16,99,High,64,63,69,61
+S32,7B,Pre-test,1,100,Medium,78,65,77,65
+S32,7B,Checkpoint 1,4,100,Medium,76,67,75,71
+S32,7B,Checkpoint 2,8,100,Medium,76,70,81,69
+S32,7B,Checkpoint 3,12,100,Medium,77,71,80,70
+S32,7B,Final,16,100,Medium,78,69,75,70
