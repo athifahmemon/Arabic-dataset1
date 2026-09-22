@@ -1,0 +1,32 @@
+# Arabic Language Assessment Dataset: Grade 7 MTs
+
+## 📌 Project Overview
+This repository contains a longitudinal dataset of Arabic language assessment results for Grade 7 students at a Madrasah Tsanawiyah (MTs), collected over the course of one academic semester. The dataset evaluates student proficiency across the four fundamental language pillars: **Istima’ (Listening)**, **Kalam (Speaking)**, **Qiroah (Reading)**, and **Kitabah (Writing)**.
+
+## 📊 Dataset Specifications
+- **Subjects:** 32 students (Classes 7A and 7B).
+- **Timeframe:** 16 weeks (One Semester).
+- **Total Observations:** 160 rows (32 students × 5 evaluation points).
+- **Evaluation Timeline:**
+  - `Pre-test`: Week 1
+  - `Checkpoint 1`: Week 4
+  - `Checkpoint 2`: Week 8
+  - `Checkpoint 3`: Week 12
+  - `Final Test`: Week 16
+
+## 🎯 Objectives
+The primary goal of this data collection is to monitor the development of Arabic language skills in junior high school students. The analysis of this dataset aims to:
+1. **Track Progress:** Monitor the trajectory of student competency throughout the semester.
+2. **Material Evaluation:** Assess the effectiveness of the current Arabic curriculum and instructional materials.
+3. **Pedagogical Review:** Evaluate the impact of teaching methods on student outcomes.
+4. **Data-Driven Insights:** Identify trends to inform strategic decision-making for future instructional planning.
+
+## 👥 Target Audience
+The insights derived from this dataset are designed for:
+- **Arabic Curriculum Department:** To refine and develop standardized teaching strategies.
+- **Language Educators:** To tailor classroom instructions based on empirical performance data.
+
+---
+*Keywords: Arabic Language, Education Dataset, Student Assessment, Pedagogy, Longitudinal Study.*
+
+------------------------------------------------------------------------------
